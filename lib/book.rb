@@ -16,4 +16,8 @@ class Book
   
 end
 
-Book.new("The Great World Spins")
+the_great_gatsby = Book.new("The Great Gatsby")
+
+the_great_gatsby.author = "F Scott Fitzgerald"
+
+puts the_great_gatsby.author
