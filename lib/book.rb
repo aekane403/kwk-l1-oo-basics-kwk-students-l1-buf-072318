@@ -21,3 +21,5 @@ the_great_gatsby = Book.new("The Great Gatsby")
 the_great_gatsby.author = "F Scott Fitzgerald"
 
 puts the_great_gatsby.author
+the_great_gatsby.genre= "Fiction"
+puts the_great_gatsby.genre
