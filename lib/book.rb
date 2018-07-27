@@ -15,3 +15,5 @@ class Book
   end
   
 end
+
+Book.new("The Great World Spins")
