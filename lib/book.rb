@@ -26,5 +26,5 @@ puts the_great_gatsby.genre
 
 brave_new_world = Book.new("Brave New World")
 
-puts the_great_gatsby.title
-puts brave_new_world.title
+# puts the_great_gatsby.title
+# puts brave_new_world.title
